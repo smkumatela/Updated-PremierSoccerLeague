@@ -2,36 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1bc298e5-bb9a-4c79-8381-18d68a78bf30" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/za/ac/PremierSoccerLeague/conf/factory/BroadcasterFactory.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/za/ac/PremierSoccerLeague/domain/BroadcasterTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/za/ac/PremierSoccerLeague/conf/factory/LeagueFactory.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/za/ac/PremierSoccerLeague/domain/LeagueTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/za/ac/PremierSoccerLeague/conf/factory/PlayerFactory.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/za/ac/PremierSoccerLeague/domain/PlayerTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/za/ac/PremierSoccerLeague/conf/factory/PremierSoccerLeagueFactory.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/za/ac/PremierSoccerLeague/domain/PremierSoccerLeagueTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/za/ac/PremierSoccerLeague/conf/factory/SponsorFactory.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/za/ac/PremierSoccerLeague/domain/SponsorTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/za/ac/PremierSoccerLeague/conf/factory/StadiumFactory.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/za/ac/PremierSoccerLeague/domain/StadiumTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/za/ac/PremierSoccerLeague/conf/factory/TeamFactory.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/za/ac/PremierSoccerLeague/domain/TeamTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/za/ac/PremierSoccerLeague/conf/factory/TechnicalTeamFactory.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/za/ac/PremierSoccerLeague/domain/TechnicalTeamTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/za/ac/PremierSoccerLeague/domain/TestSuite.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/za/ac/PremierSoccerLeague/domain/Agent.java" afterPath="$PROJECT_DIR$/src/main/java/za/ac/PremierSoccerLeague/domain/PremierSoccerLeague.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/za/ac/PremierSoccerLeague/domain/Broadcaster.java" afterPath="$PROJECT_DIR$/src/main/java/za/ac/PremierSoccerLeague/domain/Broadcaster.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/za/ac/PremierSoccerLeague/domain/League.java" afterPath="$PROJECT_DIR$/src/main/java/za/ac/PremierSoccerLeague/domain/League.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/za/ac/PremierSoccerLeague/domain/Player.java" afterPath="$PROJECT_DIR$/src/main/java/za/ac/PremierSoccerLeague/domain/Player.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/PremierSoccerLeague.iml" afterPath="$PROJECT_DIR$/PremierSoccerLeague.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/za/ac/PremierSoccerLeague/domain/Sponsor.java" afterPath="$PROJECT_DIR$/src/main/java/za/ac/PremierSoccerLeague/domain/Sponsor.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/za/ac/PremierSoccerLeague/domain/Stadium.java" afterPath="$PROJECT_DIR$/src/main/java/za/ac/PremierSoccerLeague/domain/Stadium.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/za/ac/PremierSoccerLeague/domain/Team.java" afterPath="$PROJECT_DIR$/src/main/java/za/ac/PremierSoccerLeague/domain/Team.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/za/ac/PremierSoccerLeague/domain/TechnicalTeam.java" afterPath="$PROJECT_DIR$/src/main/java/za/ac/PremierSoccerLeague/domain/TechnicalTeam.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/za/ac/PremierSoccerLeague/domain/Tournament.java" afterPath="$PROJECT_DIR$/src/main/java/za/ac/PremierSoccerLeague/domain/Tournament.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pom.xml" afterPath="$PROJECT_DIR$/pom.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="PremierSoccerLeague.iws" />
@@ -188,6 +158,7 @@
   <component name="Git.Settings">
     <option name="PREVIOUS_COMMIT_AUTHORS">
       <list>
+        <option value="smkumatela" />
         <option value="Songezo Mkumatela" />
       </list>
     </option>
@@ -916,12 +887,19 @@
       <workItem from="1430065472053" duration="4057000" />
       <workItem from="1430071007452" duration="222000" />
       <workItem from="1430071941749" duration="1782000" />
-      <workItem from="1430075792114" duration="7146000" />
+      <workItem from="1430075792114" duration="7447000" />
     </task>
+    <task id="LOCAL-00001" summary="Update Commit">
+      <created>1430083418352</created>
+      <option name="number" value="00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1430083418352</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="99383000" />
+    <option name="totallyTimeSpent" value="99684000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1" y="5" width="1364" height="672" extended-state="0" />
