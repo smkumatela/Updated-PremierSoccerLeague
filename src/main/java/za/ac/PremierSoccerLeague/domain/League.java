@@ -1,12 +1,17 @@
 package za.ac.PremierSoccerLeague.domain;
 
+<<<<<<< HEAD
 import javax.persistence.*;
 import java.io.Serializable;
 import java.util.List;
+=======
+import java.io.Serializable;
+>>>>>>> 41ce4fd178fc8f49784338e6b728ca070b246a0f
 
 /**
  * Created by student on 2015/04/18.
  */
+<<<<<<< HEAD
 @Entity
 public class League implements Serializable {
     @Id
@@ -111,4 +116,9 @@ public class League implements Serializable {
                     '}';
         }
     }
+=======
+
+public class League  {
+
+>>>>>>> 41ce4fd178fc8f49784338e6b728ca070b246a0f
 }

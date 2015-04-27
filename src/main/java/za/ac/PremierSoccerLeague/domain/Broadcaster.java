@@ -1,5 +1,6 @@
 package za.ac.PremierSoccerLeague.domain;
 
+<<<<<<< HEAD
 
 
 import javax.persistence.Embeddable;
@@ -57,4 +58,10 @@ public class Broadcaster implements Serializable {
             return new Broadcaster(this);
         }
     }
+=======
+/**
+ * Created by student on 2015/04/18.
+ */
+public class Broadcaster {
+>>>>>>> 41ce4fd178fc8f49784338e6b728ca070b246a0f
 }

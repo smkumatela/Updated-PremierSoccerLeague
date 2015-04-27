@@ -1,5 +1,6 @@
 package za.ac.PremierSoccerLeague.domain;
 
+<<<<<<< HEAD
 import com.sun.istack.internal.Builder;
 
 import javax.persistence.Entity;
@@ -42,4 +43,10 @@ public class Tournament implements Serializable{
             this.name = name;
         }
     }*/
+=======
+/**
+ * Created by student on 2015/04/18.
+ */
+public class Tournament {
+>>>>>>> 41ce4fd178fc8f49784338e6b728ca070b246a0f
 }
